@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/pipetime",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Pipe color time values and contrast-safe presentation helpers.",
+  "bin": {
+    "pipetime": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/pipetime.git"
+  },
+  "homepage": "https://theworker02.github.io/pipetime/",
+  "keywords": [
+    "pipe",
+    "time",
+    "color",
+    "cli",
+    "toolkit"
+  ]
+}
